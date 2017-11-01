@@ -1,0 +1,15 @@
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\bin\Debug\Praktikum05.exe.config
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\bin\Debug\Praktikum05.exe
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\bin\Debug\Praktikum05.pdb
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\Praktikum05.csprojResolveAssemblyReference.cache
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\MainWindow.g.cs
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\App.g.cs
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\Praktikum05_MarkupCompile.cache
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\Praktikum05_MarkupCompile.lref
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\MainWindow.baml
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\Praktikum05.g.resources
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\Praktikum05.Properties.Resources.resources
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\Praktikum05.csproj.GenerateResource.Cache
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\Praktikum05.csproj.CoreCompileInputs.cache
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\Praktikum05.exe
+c:\users\tedadams\Source\Repos\Praktikum05Solution\Praktikum05\obj\Debug\Praktikum05.pdb
